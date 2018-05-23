@@ -18,7 +18,7 @@
 <li class="p2">If the default vendor integrations are changed by replacing the sub workflows, corresponding devices should be added to the AppViewX inventory.</li>
 <li class="p3">Each device must be a managed entity in AppViewX.</li>
 <li class="p3">The Application owner role and Network Admin role are created and mapped with respective users.</li>
-<li class="p3">The Application owner role has 'submit' permissions and Network Admin role has 'review' permissions assigned in simple user-forms pallet settings.&nbsp;</li>
+<li class="p3">The Application owner role has 'submit' permissions and Network Admin role has 'review' permissions assigned in simple user-form pallet settings.&nbsp;</li>
 <li class="p2">(Optional) An ITSM tool, ServiceNow has been configured under the Change Management section of the AppViewX Settings module.</li>
 </ul>
 <p class="p5">&nbsp;</p>
