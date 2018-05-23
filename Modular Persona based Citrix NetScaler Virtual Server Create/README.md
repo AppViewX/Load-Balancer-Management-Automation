@@ -25,10 +25,11 @@
 <h2 class="p1"><strong>Compatible Software Versions </strong></h2>
 <p class="p2">The workflow and sub-workflows have been validated for the following software versions:</p>
 <ul>
-<li class="p3">AppViewX v12.3.0</li>
-<li class="p3">Citrix v11.x and v12.x</li>
-<li class="p3">Infoblox v7.2.x</li>
-<li>F5 (LTM) v11.x, v12.x, and v13.x</li>
-<li class="p2">BlueCat v8.1.0</li>
+<li class="p3">AppViewX - v12.3.0</li>
+<li class="p3">Citrix - v11.x and v12.x</li>
+<li class="p3">Infoblox - v7.2.x</li>
+<li>F5 (LTM) - v11.x, v12.x, and v13.x</li>
+<li class="p2">BlueCat - v8.1.0</li>
+<li class="p2">ServiceNow - Geneva, Eureka, Istanbul, and Jakarta</li>
 </ul>
 <p class="p1">&nbsp;</p>
